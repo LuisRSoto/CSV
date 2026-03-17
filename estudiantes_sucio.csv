@@ -1,0 +1,61 @@
+ID_Estudiante,Nombre,Curso,Edad,Horas_Estudio,Asistencia,Nota1,Nota2,Nota3
+1,Ana Perez,4A,16,10,90,85,88,92
+2,Carlos Ruiz,4A,17,6,80,70,75,72
+3,Laura Gomez,4a,16,12,95,90,94,
+4,Juan Martinez,4B,17,5,75,65,60,70
+5,Sofia Lopez,4B,16,8,85,78,82,80
+6,Miguel Torres,4B,17,,70,60,58,62
+7,Elena Diaz ,4C,16,11,92,88,91,90
+8,Pedro Santos,4C,17,3,65,55,60,58
+9,Valeria Cruz,4C,16,9,88,82,85,87
+10,   Andres Mejia,4A,17,7,83,75,78,80
+11,Daniela Ortiz,4B,16,10,90,88,85,87
+12,Jose Ramirez,4C,17,2,60,50,55,52
+13,Lucia Herrera,4A,16,13,96,95,93,97
+14,Diego Vargas,4B,17,6,78,72,74,70
+15,Mariana Castillo,4C,16,9,89,84,86,88
+16,Ana Perez,4A,16,10,90,85,88,92
+17,Roberto Diaz  ,4D,18,15,105,110,95,98
+18,Claudia Mena,4b,16,8,85,78,82,80
+19,Luis Paredes  ,4C,diecisiete,5,70,65,68,72
+20,Maria Lopez,4A,16,-3,88,80,85,90
+21,,4B,17,6,75,70,72,74
+22,Carmen Silva,4C,16,9,88,82,,87
+23,Raul Torres,4A,17,6,82,75,78,300
+24,Andrea Ruiz,4B,16,8,85,78,82,80
+25,Andrea Ruiz,4B,16,8,85,78,82,80
+26,Felipe Cruz,4A,16,7,84,76,79,81
+27,Isabel Pena,4C,17,5,72,68,70,73
+28,Oscar Medina,4B,16,9,87,83,85,88
+29,Paula Reyes,4a,16,10,90,88,92,91
+30,Ricardo Soto,4C,17,4,66,60,62,65
+31,Tatiana Rios,4A,16,11,93,90,89,94
+32,Ursula Vega,4B,16,8,85,78,82,80
+33,Victor Luna,4C,17,3,64,59,61,63
+34,Wendy Ortiz,4a,16,12,97,95,96,98
+35,Ximena Castro,4B,16,7,80,75,77,79
+36,Yahir Morales,4C,17,6,82,78,80,83
+37,Zoe Martinez,4A,16,9,89,86,88,90
+38,Bruno Diaz,4B,17,2,60,55,58,62
+39,Camila Nunez,4C,16,10,91,88,90,92
+40,David Leon,4A,17,8,85,82,84,86
+41,Eva Campos,4B,16,9,88,85,87,89
+42,Fernando Gil,4C,17,5,70,65,68,71
+43,Gabriela Mena,4A,16,11,94,92,93,95
+44,Hector Salas,4B,17,4,67,63,65,69
+45,Irene Pardo,4C,16,8,86,83,85,87
+46,Jorge Ibarra,4A,17,6,79,74,76,78
+47,Karen Silva,4B,16,10,91,89,90,92
+48,Luis Torres,4c,17,3,62,58,60,61
+49,Marta Reyes,4A,16,9,88,85,87,89
+50,Nestor Aguilar,4B,17,7,83,80,82,84
+51,Olga Prieto,4c,16,8,87,84,86,88
+52,Pablo Rios,4A,17,5,71,68,70,72
+53,Quetzal Rivas,4B,16,12,96,94,95,97
+54,Rosa Mena,4C,16,9,90,88,89,91
+55,Samuel Ortiz,4A,17,6,82,79,81,83
+56,Teresa Cruz,4B,16,10,92,90,91,93
+57,Ulises Lara,4C,17,4,68,64,66,69
+58,Veronica Peña,4A,16,11,94,92,93,95
+59,William Soto,4B,17,0,85,78,80,82
+60,Xavier Molina,4C,16,14,99,100,102,98
