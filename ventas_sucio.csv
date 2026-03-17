@@ -1,0 +1,66 @@
+id;fecha;cliente;producto;categoria;cantidad;precio_unitario;ciudad
+1;2024-01-02;juan perez;laptop;tecnologia;2;850;Santo Domingo
+2;2024-01-03;Maria Lopez;mouse;Tecnologia;5;20;santiago
+3;2024-01-04;carlos ruiz;teclado;tecnologia;-3;30;La Vega
+4;2024-13-05;ana martinez;monitor;Tecnologia;1;300;Santo Domingo
+5;2024-01-06;Pedro Gomez;laptop;tecnologia;1;0;SANTIAGO
+6;2024-01-07;luisa fernandez;impresora;tecnologia;;150;la vega
+7;2024-01-07;luisa fernandez;impresora;tecnologia;;150;la vega
+8;2024-01-08;Miguel Diaz;tablet;Tecnologia;1000;200;Santo Domingo
+9;2024-01-09;;laptop;tecnologia;1;900;Santiago
+10;2024-01-10;Sofia Ramirez;monitor;tecnologia;2;-500;La Vega
+11;2024-01-11;andres cruz;mouse;tecnologia;3;25;
+12;2024-01-11;andres cruz;mouse;tecnologia;3;25;
+13;2024-01-12;Carla Mendez;tablet;Tecnologia;2;210;Santo Domingo
+14;2024-01-13;roberto gil;laptop;tecnologia;1;850;Santiago
+15;2024-01-14;mariana diaz;mouse;tecnologia;4;20;La Vega
+16;2024-01-15;JUAN PEREZ;laptop;Tecnologia;2;850;SANTO DOMINGO
+17;2024-01-16;Luis Torres;monitor;tecnologia;1;300;Santiago
+18;2024-01-17;Ana Lopez;tablet;tecnologia;3;200;La Vega
+19;2024-01-18;Carlos Ruiz;impresora;Tecnologia;1;150;Santo Domingo
+20;2024-01-19;Pedro Gomez;laptop;tecnologia;2;850;Santiago
+21;2024-01-20;Luisa Fernandez;mouse;tecnologia;3;20;La Vega
+22;2024-01-21;Miguel Diaz;tablet;tecnologia;2;200;Santo Domingo
+23;2024-01-22;Maria Lopez;monitor;tecnologia;1;300;santiago
+24;2024-01-23;Sofia Ramirez;mouse;tecnologia;0;25;La Vega
+25;2024-01-24;Andres Cruz;teclado;tecnologia;3;-30;Santo Domingo
+26;2024-01-25;Carla Mendez;laptop;tecnologia;2;850;
+27;2024-01-26;Roberto Gil;tablet;Tecnologia;1;200;Santiago
+28;2024-01-27;Mariana Diaz;monitor;tecnologia;2;300;La Vega
+29;2024-01-28;Juan Perez;mouse;tecnologia;3;20;Santo Domingo
+30;2024-01-29;Luis Torres;impresora;tecnologia;1;150;Santiago
+31;2024-02-01;Ana Lopez;laptop;tecnologia;2;850;La Vega
+32;2024-02-02;Carlos Ruiz;tablet;tecnologia;1;200;Santo Domingo
+33;2024-02-03;Pedro Gomez;monitor;tecnologia;2;300;Santiago
+34;2024-02-04;Luisa Fernandez;mouse;tecnologia;3;20;La Vega
+35;2024-02-05;Miguel Diaz;laptop;tecnologia;1;850;Santo Domingo
+36;2024-02-06;Maria Lopez;tablet;tecnologia;2;200;Santiago
+37;2024-02-07;Sofia Ramirez;monitor;tecnologia;1;300;La Vega
+38;2024-02-08;Andres Cruz;mouse;tecnologia;3;25;Santo Domingo
+39;2024-02-09;Carla Mendez;impresora;tecnologia;1;150;Santiago
+40;2024-02-10;Roberto Gil;laptop;tecnologia;2;850;La Vega
+41;2024-02-11;Mariana Diaz;tablet;tecnologia;1;200;Santo Domingo
+42;2024-02-12;Juan Perez;monitor;tecnologia;2;300;Santiago
+43;2024-02-13;Luis Torres;mouse;tecnologia;3;20;La Vega
+44;2024-02-14;Ana Lopez;impresora;tecnologia;1;150;Santo Domingo
+45;2024-02-15;Carlos Ruiz;laptop;tecnologia;2;850;Santiago
+46;2024-02-16;Pedro Gomez;tablet;tecnologia;1;200;La Vega
+47;2024-02-17;Luisa Fernandez;monitor;tecnologia;2;300;Santo Domingo
+48;2024-02-18;Miguel Diaz;mouse;tecnologia;3;20;Santiago
+49;2024-02-19;Maria Lopez;impresora;tecnologia;1;150;La Vega
+50;2024-02-20;Sofia Ramirez;laptop;tecnologia;2;850;Santo Domingo
+51;2024-02-21;Andres Cruz;tablet;tecnologia;1;200;Santiago
+52;2024-02-22;Carla Mendez;monitor;tecnologia;2;300;La Vega
+53;2024-02-23;Roberto Gil;mouse;tecnologia;3;20;Santo Domingo
+54;2024-02-24;Mariana Diaz;impresora;tecnologia;1;150;Santiago
+55;2024-02-25;Juan Perez;laptop;tecnologia;2;850;La Vega
+56;2024-02-26;Luis Torres;tablet;tecnologia;1;200;Santo Domingo
+57;2024-02-27;Ana Lopez;monitor;tecnologia;2;300;Santiago
+58;2024-02-28;Carlos Ruiz;mouse;tecnologia;3;20;La Vega
+59;2024-02-29;Pedro Gomez;impresora;tecnologia;1;150;Santo Domingo
+60;2024-02-30;Luisa Fernandez;laptop;tecnologia;2;850;Santiago
+61;2024-03-01;Miguel Diaz;tablet;tecnologia;1;200;La Vega
+62;2024-03-02;Maria Lopez;monitor;tecnologia;2;300;Santo Domingo
+63;2024-03-03;Sofia Ramirez;mouse;tecnologia;3;20;Santiago
+64;2024-03-04;Andres Cruz;impresora;tecnologia;1;150;La Vega
+65;2024-03-05;Carla Mendez;laptop;tecnologia;2;850;Santo Domingo
